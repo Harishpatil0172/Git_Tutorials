@@ -1,4 +1,4 @@
-Git Tutorials By developera
+Git Tutorials By developer a
 Git Tutorial By Developer B 
 
 ## Please susbcriibe to my channel
