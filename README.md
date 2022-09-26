@@ -1,6 +1,5 @@
-Git Tutorials By developer a
-Git Tutorial By Developer B 
+Git Tutorials By Harish 
 
-## Please susbcriibe to my channel
+## Please susbcribe to my channel
 
 ##changes to be commited
